@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giới thiệu bản thân</title>
+</head>
+<body>
+  <header>
+    <h1>Tên tôi là Diệp Minh Quân</h1>
+    <p>Sở thích của tôi là đi bơi.</p>
+    <p>Mục tiêu của tôi là nghề nghiệp ổn định.</p>
+  </header>
+  <section>
+    <h2>Tiểu sử</h2>
+    <p>Tôi sinh ra và lớn lên ở Đồng Nai. Tôi là một người [Hòa đồng]. Tôi thích học hỏi và khám phá những điều mới mẻ.</p>
+  </section>
+  <section>
+    <h2>Kết nối</h2>
+    <ul>
+      <li><a href="https://www.facebook.com/profile.php?id=100022861081353">Facebook</a></li>
+    </ul>
+  </section>
+</body>
+</html>
